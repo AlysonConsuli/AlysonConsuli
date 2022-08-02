@@ -26,7 +26,7 @@
   <img align="center" alt="Alyson-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Alyson-postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Alyson-mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- <img align="center" alt="Alyson-prisma" height="40" width="50" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg">
+ <img align="center" alt="Alyson-prisma" height="40" width="50" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.svg">
  <img align="center" alt="Alyson-jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
  <img align="center" alt="Alyson-cypress" height="40" width="50" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg">
  <img align="center" alt="Alyson-eslint" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
