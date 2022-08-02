@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
 - 🎓 Bachelor in Mathematics from <b>UFV</b>
+- 🎸 Musician
 - 😄 Pronouns: EN: he/him PT-BR: ele/dele
 - 🇧🇷 Brazilian
 
@@ -39,4 +40,5 @@
 <!--  Redes Sociais e Contatos -->
 <div>
   <a href = "mailto:consulialyson@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alysonconsuli/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alysonconsuli/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
