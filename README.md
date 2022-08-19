@@ -3,7 +3,7 @@
 ### I'm Alyson Consuli
 
 - 🌱 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
-- 🎓 Bachelor in Mathematics from <b>UFV</b>
+- 🎓 Bachelor of Mathematics from <b>UFV</b>
 - 🎸 Musician
 - 😄 Pronouns: EN: he/him PT-BR: ele/dele
 - 🇧🇷 Brazilian
