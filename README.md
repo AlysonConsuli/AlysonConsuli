@@ -8,12 +8,22 @@
 - 🇧🇷 Brazilian
 
 ### 📊 My Github Stats
-<div align="center">
+<div align="left
   <a href="https://github.com/AlysonConsuli">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AlysonConsuli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonConsuli&layout=compact&langs_count=7&theme=radical"/>
  <!-- <img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alyson&theme=radical&show_icons=true&layout=default&langs_count=4"/> -->
 </div>
+
+### 🕛 Wakatime
+
+<div align="left">
+
+[![wakatime](https://wakatime.com/badge/user/04b5cb88-c3f1-4b9f-b209-66de75fcc3ee.svg?style=for-the-badge)](https://wakatime.com/@04b5cb88-c3f1-4b9f-b209-66de75fcc3ee)
+
+</div>
+
+##
   
 ### ⚒️ My Stack
 
