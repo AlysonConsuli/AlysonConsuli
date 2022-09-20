@@ -2,10 +2,9 @@
 
 ### I'm Alyson Consuli
 
-- 🌱 I’m currently learning: Full Stack Developer at <i><b>Driven Education</b></i>
-- 🎓 Bachelor of Mathematics from <b>UFV</b>
+- 🚀 Full Stack Web Development from <i><b>Driven Education</b></i>
+- 🎓 Bachelor's degree in Mathematics from <i><b>UFV</b></i>
 - 🎸 Musician
-- 😄 Pronouns: EN: he/him PT-BR: ele/dele
 - 🇧🇷 Brazilian
 
 ### 📊 My Github Stats
@@ -35,12 +34,11 @@
 <!--   <p></p> space between icons -->
   <img align="right" alt="cofee-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97575616/151676617-d3dacf6f-7bef-4160-a9f7-1fa361e57af3.gif">
 </div>
-</div>
   
   ##
-  ### 🖥 Contact and Social Media
+  ### 🖥 Contact Me
 <!--  Redes Sociais e Contatos -->
 <div>
   <a href = "mailto:consulialyson@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alysonconsuli/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/alysonconsuli/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
