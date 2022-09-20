@@ -29,8 +29,9 @@
 
 -   _**Languages**_<br>
     <p>
+    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=323330&color=323330&logoColor=F7DF1E&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=3178C6&color=3178C6&logoColor=white&label=%20&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=F7DF1E&color=F7DF1E&logoColor=black&label=%20&style=for-the-badge"><br>
+    <img src="https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=FFD43B&color=FFD43B&logoColor=blue&label=%20&style=for-the-badge"><br>
 
 -   _**Front-end**_<br>
     <p>
@@ -77,7 +78,7 @@
     <img src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Trello&logo=Trello&labelColor=0052CC&color=0052CC&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=VS Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
     <br>
 
 -   _**Operational System**_<br>
