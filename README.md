@@ -18,6 +18,8 @@
 ### 🕛 Wakatime
 
 <div align="left">
+                 
+[![wakatime](https://wakatime.com/badge/user/04b5cb88-c3f1-4b9f-b209-66de75fcc3ee.svg?style=for-the-badge)](https://wakatime.com/@04b5cb88-c3f1-4b9f-b209-66de75fcc3ee)
 
 </div>
 
