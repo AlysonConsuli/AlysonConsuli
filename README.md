@@ -38,7 +38,9 @@
     <img src="https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=61DAFB&color=61DAFB&logoColor=black&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge"><br>
+    <img src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><br>
 
 -   _**Back-end**_<br>
     <p>
