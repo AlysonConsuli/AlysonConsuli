@@ -2,8 +2,9 @@
 
 ### I'm Alyson Consuli
 
-- 🚀 Full Stack Web Development at <i><b>Nelogica</b></i>
+- 🚀 Back-end at <i><b>Nelogica</b></i>
 - 🎓 Bachelor's degree in Mathematics from <i><b>UFV</b></i>
+- 🎓 Postgraduate in Software Engineering from <i><b>PUC</b></i>
 - 🎸 Musician
 - 🇧🇷 Brazilian
 
